@@ -1,4 +1,4 @@
-# Teste PHP - Total Expres---
+# Teste PHP - Total Expres
 
 
 Teste:
