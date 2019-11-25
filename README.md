@@ -3,9 +3,6 @@
 Teste:
 ---
 
-Teste:
----
-
 Como fazer:
 ---
 
